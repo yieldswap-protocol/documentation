@@ -2,12 +2,11 @@
 
 ## What is Yield Swap?
 
-Yield Swap is a decentralized exchange that allows users to swap interest rates.
-Users exchanging interest rates on Yield Swap are called [Payers](./payers.md)
-and [Receivers](./receivers.md). Payers pay the fixed interest rate of an asset
-in exchange for the floating interest rate provided by Receivers. Both user
-types do this in order to make a profit based on their respective investment
-strategies.
+Yield Swap is a DEX for capital efficient [interest rate swaps]. These kind of
+derivatives let users exchange fixed yields for floating yields, and vice versa.
+Where [UniSwap] enables users to exchange digital assets like ETH, Yield Swap
+enables users to exchange pure yields of interest rates themselves. The Yield
+Swap users engaging in interest rate swaps are called [Payers] and [Receivers].
 
 ## What problem does Yield Swap solve?
 
@@ -19,3 +18,8 @@ volatility and a lack of secondary markets to take advantage of it. So the
 problem Yield Swap tries to solve is to provide DeFi users with a platform to
 hedge against and bet on volatility across decentralized asset classes, all the
 while being most capital efficient.
+
+[interest rate swaps]: https://en.wikipedia.org/wiki/Interest_rate_swap
+[Payers]: ./payers.md
+[Receivers]: ./receivers.md
+[UniSwap]: https://uniswap.org
