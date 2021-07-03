@@ -6,3 +6,7 @@
 
 - [Payers](payers.md)
 - [Receivers](receivers.md)
+
+## References
+
+- [Glossary](glossary.md)
