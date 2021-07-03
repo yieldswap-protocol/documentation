@@ -7,5 +7,10 @@
 - [Payers](payers.md)
 - [Receivers](receivers.md)
 
-### Example Use Cases
+## Example Use Cases
+
 - [Speculating on Falling Yields](speculating_falling_yields.md)
+
+## References
+
+- [Glossary](glossary.md)
