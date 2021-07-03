@@ -16,7 +16,7 @@ Payers can make a profit under the following constraints and conditions.
 - The yield swap is a futures contract over a given tenor, e.g. 10 days.
 - The Payer pays the agreed upon fixed yield.
 - The Payer receives the floating yield actually realized after the tenor.
-- The fixed yield is **smaller** than the floating yield.
+- The floating yield is **greater** than the fixed yield.
 
 ![Payer Profit](image/payers/payer_profit.png)
 
@@ -27,6 +27,6 @@ Payers can incur a loss under the following constraints and conditions.
 - The yield swap is a futures contract over a given tenor, e.g. 10 days.
 - The Payer pays the agreed upon fixed yield.
 - The Payer receives the floating yield actually realized after the tenor.
-- The fixed yield is **greater** than the floating yield.
+- The floating yield is **smaller** than the fixed yield.
 
 ![Payer Loss](image/payers/payer_loss.png)
