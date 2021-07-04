@@ -7,9 +7,10 @@ an automated and trustless way between two parties.
 
 ## Notional
 
-The total value of the futures contract when swapping yields. The notional of a
-trade has to be backed by pledged collateral and represents the full amount of
-capital leveraged in a users margin account.
+The total amount used to calculate settlement payments. Before users can trade
+the given notional size they must pledge sufficient collateral in their margin
+accounts. The collateral amount is always smaller than the notional, providing
+users with leverage and thus greater capital efficiency.
 
 ## Payer
 
