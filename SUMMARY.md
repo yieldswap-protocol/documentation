@@ -1,11 +1,10 @@
-# Table of contents
+# Table of Contents
 
 - [Introduction](README.md)
 
-## Users
+## Yield Swap
 
-- [Payers](payers.md)
-- [Receivers](receivers.md)
+- [Bilateral Agreement](bilateral_agreement.md)
 
 ## Example Use Cases
 
